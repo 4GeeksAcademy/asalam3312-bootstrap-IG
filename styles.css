@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    margin: auto;
+    width: 700px;
+}
+.card-title{
+    display:flex;
+    justify-content: space-between;
+}
+.card-img-top{
+    width: 100%;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
